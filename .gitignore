@@ -1,0 +1,5 @@
+models/ 
+*.gguf 
+*.safetensors 
+.venv/ 
+_pycache_/

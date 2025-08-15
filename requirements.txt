@@ -1,0 +1,7 @@
+flask
+transformers>=4.55
+torch
+sentencepiece
+sacremoses
+safetensors
+llama-cpp-python>=0.2.80
